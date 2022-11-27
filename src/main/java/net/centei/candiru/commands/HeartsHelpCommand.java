@@ -20,6 +20,7 @@ public class HeartsHelpCommand {
         ctx.getSource().sendFeedback(Text.literal("Once you have gotten over " + (HeartsUseCommand.advancementthreshold - 3) + " advancements, you will start earning hearts!"), true);
         ctx.getSource().sendFeedback(Text.literal("Every " + HeartsUseCommand.heartdelay + " hearts after this, you will get a heart!"), true);
         ctx.getSource().sendFeedback(Text.literal("This means that you will get your first heart when you have " + (HeartsUseCommand.advancementthreshold + HeartsUseCommand.heartdelay) + " advancements!"), true);
+        ctx.getSource().sendFeedback(Text.literal("Check out the Source!: https://github.com/Centei/candiru.1.18"), true);
         return 1;
     }
 }
