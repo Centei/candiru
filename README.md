@@ -1,5 +1,7 @@
 # Candiru (for Fabric)
-
+![GitHub license](https://img.shields.io/github/license/Centei/candiru?style=flat)
+![Github release](https://img.shields.io/github/v/release/Centei/candiru?display_name=release)
+![GitHub last commit](https://img.shields.io/github/last-commit/Centei/candiru)
 ## **Work In Progress** (still in early development phase)
 
 Candiru is a free and open source Minecraft plugin that gives a unique taste of the hardcore gamemode, while still being
@@ -68,7 +70,7 @@ In progress, finish date TBD.
 ## License
 
 Candiru is licensed under [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.txt), a free and open source license. For
-more information, please see the `LICENSE` file.
+more information, please see the [license file](LICENSE.txt).
 
 Candiru uses a template licensed under the CC0 license. Check out the original
 template [here](https://github.com/FabricMC/fabric-example-mod). 
