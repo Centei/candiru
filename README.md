@@ -1,12 +1,17 @@
 # Candiru (for Fabric)
+
 ![GitHub license](https://img.shields.io/github/license/Centei/candiru?style=flat)
 ![Github release](https://img.shields.io/github/v/release/Centei/candiru?display_name=release)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Centei/candiru)
-## **Work In Progress** (still in early development phase)
+
+## ~~**Work In Progress** (still in early development phase)~~
+
+## Development has been ceased for the foreseeable future; no support will be provided
 
 Candiru is a free and open source Minecraft plugin that gives a unique taste of the hardcore gamemode, while still being
 vanilla-like. **Note** that this plugin is not desinged to replace the hardcore gamemode itself, rather altering how
-health works instead. It is a **server-side only** plugin as of release 0.1.2.
+health works instead. It is a **server-side only** plugin as of release 0.1.2. Feel free to fork this project and adapt
+it to your own needs.
 
 ## What is different?
 
